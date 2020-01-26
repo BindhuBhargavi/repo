@@ -1,0 +1,57 @@
+
+-----------------------------------------------
+Escalation Type: Complete
+-----------------------------------------------
+
+runexe_0_windir_system32_wevtutil_exe
+-----------------------------------------------
+Executable exited with error code: 15007
+Action failed with error code: -2017128419, but 'ignorefailure' was specified. Continuing.
+Duration (ms): 1453
+-----------------------------------------------
+file_1_T0FolderPath
+-----------------------------------------------
+Created directory: \\?\C:\Users\DELL\AppData\Local\Packages\Microsoft.WindowsFeedbackHub_8wekyb3d8bbwe\LocalState\DiagOutputDir\{c63dcb43-9dc0-4592-b5f5-87675d7721a2}
+Copied file: \\?\C:\Users\DELL\AppData\Local\Packages\Microsoft.WindowsFeedbackHub_8wekyb3d8bbwe\LocalState\DiagOutputDir\{c63dcb43-9dc0-4592-b5f5-87675d7721a2}\UIF_FeedbackItem.json
+Copied file: \\?\C:\Users\DELL\AppData\Local\Packages\Microsoft.WindowsFeedbackHub_8wekyb3d8bbwe\LocalState\DiagOutputDir\{c63dcb43-9dc0-4592-b5f5-87675d7721a2}\UIF_SubmissionId.txt
+Files Copied: 2
+GetFileAction succeeded
+Action succeeded
+Duration (ms): 78
+-----------------------------------------------
+file_2_windir_panther__
+-----------------------------------------------
+Copied file: \\?\C:\Windows\panther\cbs.log
+Copied file: \\?\C:\Windows\panther\Contents0.dir
+Copied file: \\?\C:\Windows\panther\Contents1.dir
+Copied file: \\?\C:\Windows\panther\DDACLSys.log
+Copied file: \\?\C:\Windows\panther\diagerr.xml
+Copied file: \\?\C:\Windows\panther\diagwrn.xml
+Copied file: \\?\C:\Windows\panther\MainQueueOnline0.que
+Copied file: \\?\C:\Windows\panther\MainQueueOnline1.que
+Copied file: \\?\C:\Windows\panther\setup.etl
+Created directory: \\?\C:\Windows\panther\setup.exe
+Copied file: \\?\C:\Windows\panther\setupact.log
+Copied file: \\?\C:\Windows\panther\setuperr.log
+Copied file: \\?\C:\Windows\panther\setupinfo
+Created directory: \\?\C:\Windows\panther\UnattendGC
+Copied file: \\?\C:\Windows\panther\UnattendGC\diagerr.xml
+Copied file: \\?\C:\Windows\panther\UnattendGC\diagwrn.xml
+Copied file: \\?\C:\Windows\panther\UnattendGC\setupact.log
+Copied file: \\?\C:\Windows\panther\UnattendGC\setuperr.log
+Files Copied: 16
+GetFileAction succeeded
+Action succeeded
+Duration (ms): 5063
+-----------------------------------------------
+file_3_windir_inf_setupapi_log
+-----------------------------------------------
+Copied file: \\?\C:\Windows\inf\setupapi.dev.log
+Copied file: \\?\C:\Windows\inf\setupapi.offline.20180915_003333.log
+Copied file: \\?\C:\Windows\inf\setupapi.setup.log
+Files Copied: 3
+GetFileAction succeeded
+Action succeeded
+Duration (ms): 47
+-----------------------------------------------
+Total Duration (ms): 6672

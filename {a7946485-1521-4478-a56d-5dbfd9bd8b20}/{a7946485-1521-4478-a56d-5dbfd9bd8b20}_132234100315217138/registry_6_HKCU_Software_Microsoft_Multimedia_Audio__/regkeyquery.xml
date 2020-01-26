@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<regkeyquery>
+  <key>
+    <name>HKEY_CURRENT_USER\Software\Microsoft\Multimedia\Audio</name>
+    <key>
+      <name>HKEY_CURRENT_USER\Software\Microsoft\Multimedia\Audio\DefaultEndpoint</name>
+    </key>
+    <key>
+      <name>HKEY_CURRENT_USER\Software\Microsoft\Multimedia\Audio\DeviceCpl</name>
+      <value>
+        <name>ShowHiddenDevices</name>
+        <type>REG_DWORD</type>
+        <data>0x1</data>
+      </value>
+      <value>
+        <name>ShowDisconnectedDevices</name>
+        <type>REG_DWORD</type>
+        <data>0x1</data>
+      </value>
+      <value>
+        <name>VolumeUnits</name>
+        <type>REG_DWORD</type>
+        <data>0x0</data>
+      </value>
+    </key>
+  </key>
+</regkeyquery>

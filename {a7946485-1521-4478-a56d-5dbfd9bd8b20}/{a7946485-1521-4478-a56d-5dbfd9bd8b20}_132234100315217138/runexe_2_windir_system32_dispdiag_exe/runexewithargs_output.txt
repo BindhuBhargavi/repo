@@ -1,0 +1,1 @@
+Dump file: C:\Windows\TEMP\DiagTrack_{FA96F077-D2CE-47E3-959B-8F6363F5C558}_1D5CA369378A971\runexe_2_windir_system32_dispdiag_exe.dat

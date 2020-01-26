@@ -1,0 +1,40 @@
+
+-----------------------------------------------
+Escalation Type: Complete
+-----------------------------------------------
+
+impersonate_0_T0
+-----------------------------------------------
+Action succeeded
+Duration (ms): 0
+-----------------------------------------------
+runexe_0_windir_system32_dispdiag_exe
+-----------------------------------------------
+Executable exited with error code: 0
+Action succeeded
+Duration (ms): 1266
+-----------------------------------------------
+unimpersonate_1_T0
+-----------------------------------------------
+Action succeeded
+Duration (ms): 0
+-----------------------------------------------
+file_1_T0FolderPath
+-----------------------------------------------
+Created directory: \\?\C:\Users\DELL\AppData\Local\Packages\Microsoft.WindowsFeedbackHub_8wekyb3d8bbwe\LocalState\DiagOutputDir\{8c88430f-7713-4c3e-8ba4-c11887db215a}
+Copied file: \\?\C:\Users\DELL\AppData\Local\Packages\Microsoft.WindowsFeedbackHub_8wekyb3d8bbwe\LocalState\DiagOutputDir\{8c88430f-7713-4c3e-8ba4-c11887db215a}\UIF_FeedbackItem.json
+Copied file: \\?\C:\Users\DELL\AppData\Local\Packages\Microsoft.WindowsFeedbackHub_8wekyb3d8bbwe\LocalState\DiagOutputDir\{8c88430f-7713-4c3e-8ba4-c11887db215a}\UIF_SubmissionId.txt
+Files Copied: 2
+GetFileAction succeeded
+Action succeeded
+Duration (ms): 109
+-----------------------------------------------
+file_2_temp_DiagOutputDir_DispDiag_dat
+-----------------------------------------------
+Copied file: \\?\C:\Windows\TEMP\DiagOutputDir\DispDiag.dat
+Files Copied: 1
+GetFileAction succeeded
+Action succeeded
+Duration (ms): 63
+-----------------------------------------------
+Total Duration (ms): 1453

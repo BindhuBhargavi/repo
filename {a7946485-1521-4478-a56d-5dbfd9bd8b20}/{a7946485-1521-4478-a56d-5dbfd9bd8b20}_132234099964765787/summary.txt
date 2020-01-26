@@ -1,0 +1,36 @@
+
+-----------------------------------------------
+Escalation Type: Complete
+-----------------------------------------------
+
+runexe_0_windir_system32_pnputil_exe
+-----------------------------------------------
+Executable exited with error code: 0
+Action succeeded
+Duration (ms): 12688
+-----------------------------------------------
+file_1_T0FolderPath
+-----------------------------------------------
+Created directory: \\?\C:\Users\DELL\AppData\Local\Packages\Microsoft.WindowsFeedbackHub_8wekyb3d8bbwe\LocalState\DiagOutputDir\{a1ff54b1-045e-4148-bb0f-1fb643f7d9cb}
+Copied file: \\?\C:\Users\DELL\AppData\Local\Packages\Microsoft.WindowsFeedbackHub_8wekyb3d8bbwe\LocalState\DiagOutputDir\{a1ff54b1-045e-4148-bb0f-1fb643f7d9cb}\UIF_FeedbackItem.json
+Copied file: \\?\C:\Users\DELL\AppData\Local\Packages\Microsoft.WindowsFeedbackHub_8wekyb3d8bbwe\LocalState\DiagOutputDir\{a1ff54b1-045e-4148-bb0f-1fb643f7d9cb}\UIF_SubmissionId.txt
+Files Copied: 2
+GetFileAction succeeded
+Action succeeded
+Duration (ms): 15
+-----------------------------------------------
+file_2_temp_DiagOutputDir_pnpstate_pnp
+-----------------------------------------------
+Copied file: \\?\C:\Windows\TEMP\DiagOutputDir\pnpstate.pnp
+Files Copied: 1
+GetFileAction succeeded
+Action succeeded
+Duration (ms): 0
+-----------------------------------------------
+__GMD_HardCoded_OneTrace_SimulatedEscAction__
+-----------------------------------------------
+Delay (ms): 1; Tolerance (ms): 50
+Action succeeded
+Duration (ms): 16
+-----------------------------------------------
+Total Duration (ms): 12719

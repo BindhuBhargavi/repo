@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<scenario id="{A4196900-9928-469A-ABF2-BD53A3D1C74A}" instanceId="{0AEBDCF8-C005-44E0-A6B0-D1DF97A4B2AD}" apidriven="1">
+  <triggers />
+  <metadata_elements>
+    <metadata name="_isacon" value="0" />
+    <metadata name="_iscontinuumsessionactive" value="0" />
+    <metadata name="_isescalationinprogress" value="1" />
+    <metadata name="_iskerneldebuggerpresent" value="0" />
+    <metadata name="_lastapplicationinstalltime" value="0" />
+    <metadata name="_lastboottime" value="132234093535000000" />
+    <metadata name="_lastdevicearrivalremovaltime" value="132234097338301279" />
+    <metadata name="_lastlogontime" value="132234094299107070" />
+    <metadata name="_lastpowersourcechangetime" value="0" />
+    <metadata name="_lastresumefromhibernatetime" value="0" />
+    <metadata name="_lastresumefromstandbytime" value="0" />
+    <metadata name="_lastsuccessfulrefreshtime" value="0" />
+    <metadata name="_lastunlocktime" value="0" />
+    <metadata name="_timesinceosinstall" value="16130755952372" />
+  </metadata_elements>
+</scenario>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<regkeyquery>
+  <key>
+    <name>HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\ksthunk</name>
+    <value>
+      <name>DisplayName</name>
+      <type>REG_SZ</type>
+      <data>Kernel Streaming Thunks</data>
+    </value>
+    <value>
+      <name>ErrorControl</name>
+      <type>REG_DWORD</type>
+      <data>0x1</data>
+    </value>
+    <value>
+      <name>Group</name>
+      <type>REG_SZ</type>
+      <data>PNP Filter</data>
+    </value>
+    <value>
+      <name>ImagePath</name>
+      <type>REG_EXPAND_SZ</type>
+      <data>\SystemRoot\system32\drivers\ksthunk.sys</data>
+    </value>
+    <value>
+      <name>Start</name>
+      <type>REG_DWORD</type>
+      <data>0x3</data>
+    </value>
+    <value>
+      <name>Type</name>
+      <type>REG_DWORD</type>
+      <data>0x1</data>
+    </value>
+  </key>
+</regkeyquery>

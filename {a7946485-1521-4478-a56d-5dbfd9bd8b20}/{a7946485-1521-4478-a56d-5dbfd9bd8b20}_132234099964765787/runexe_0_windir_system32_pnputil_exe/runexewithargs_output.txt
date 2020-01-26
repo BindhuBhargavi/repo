@@ -1,0 +1,7 @@
+Microsoft PnP Utility
+
+Exporting PnP system state: pnpstate.pnp
+Failed to export registry state: 0x00000522
+Failed to export device state: 0x00000490
+Failed to export BCD state: 0x00000522
+PnP system state partially exported.

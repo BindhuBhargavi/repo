@@ -1,0 +1,68 @@
+
+-----------------------------------------------
+Escalation Type: Complete
+-----------------------------------------------
+
+impersonate_0_T0
+-----------------------------------------------
+Action succeeded
+Duration (ms): 0
+-----------------------------------------------
+runexe_0_windir_system32_dxdiag_exe
+-----------------------------------------------
+Executable exited with error code: 0
+Action succeeded
+Duration (ms): 46750
+-----------------------------------------------
+runexe_1_windir_system32_dxdiag_exe
+-----------------------------------------------
+Executable exited with error code: 0
+Action succeeded
+Duration (ms): 6765
+-----------------------------------------------
+runexe_2_windir_system32_dxdiag_exe
+-----------------------------------------------
+Executable exited with error code: 0
+Action succeeded
+Duration (ms): 6375
+-----------------------------------------------
+unimpersonate_3_T0
+-----------------------------------------------
+Action succeeded
+Duration (ms): 0
+-----------------------------------------------
+file_3_T0FolderPath
+-----------------------------------------------
+Created directory: \\?\C:\Users\DELL\AppData\Local\Packages\Microsoft.WindowsFeedbackHub_8wekyb3d8bbwe\LocalState\DiagOutputDir\{5f5813c5-11c6-4721-9416-3a7a3eacbddf}
+Copied file: \\?\C:\Users\DELL\AppData\Local\Packages\Microsoft.WindowsFeedbackHub_8wekyb3d8bbwe\LocalState\DiagOutputDir\{5f5813c5-11c6-4721-9416-3a7a3eacbddf}\UIF_FeedbackItem.json
+Copied file: \\?\C:\Users\DELL\AppData\Local\Packages\Microsoft.WindowsFeedbackHub_8wekyb3d8bbwe\LocalState\DiagOutputDir\{5f5813c5-11c6-4721-9416-3a7a3eacbddf}\UIF_SubmissionId.txt
+Files Copied: 2
+GetFileAction succeeded
+Action succeeded
+Duration (ms): 16
+-----------------------------------------------
+impersonate_4_T0
+-----------------------------------------------
+Action succeeded
+Duration (ms): 0
+-----------------------------------------------
+file_4_WindowsFeedbackHub_8wekyb3d8bbwe_TempState_dxdiag_xml
+-----------------------------------------------
+Copied file: \\?\C:\Users\DELL\AppData\Local\Packages\Microsoft.WindowsFeedbackHub_8wekyb3d8bbwe\TempState\dxdiag.xml
+Files Copied: 1
+GetFileAction succeeded
+Action succeeded
+Duration (ms): 47
+-----------------------------------------------
+unimpersonate_6_T0
+-----------------------------------------------
+Action succeeded
+Duration (ms): 0
+-----------------------------------------------
+__GMD_HardCoded_OneTrace_SimulatedEscAction__
+-----------------------------------------------
+Delay (ms): 1; Tolerance (ms): 50
+Action succeeded
+Duration (ms): 31
+-----------------------------------------------
+Total Duration (ms): 60000

@@ -1,0 +1,99 @@
+[12/26/2019 06:44.38.067] WudfCoInstaller: ReadWdfSection: Checking WdfSection [Basic_Install.Wdf]
+
+[12/26/2019 06:44.38.209] WudfCoInstaller: Configuring UMDF Service WpdFs.
+
+[12/26/2019 06:44.38.333] WudfCoInstaller: ImpersonationLevel set to 2
+
+[12/26/2019 06:44.38.581] WudfCoInstaller: Final status: error(0) The operation completed successfully.
+
+
+[12/26/2019 06:44.41.633] WudfCoInstaller: Created marker file C:\Windows\system32\drivers\Msft_User_WpdFs_01_11_00.Wdf.
+
+[12/26/2019 07:05.48.661] WudfCoInstaller: ReadWdfSection: Checking WdfSection [Basic_Install.Wdf]
+
+[12/26/2019 07:05.48.715] WudfCoInstaller: UMDF Service WpdFs is already installed - removing existing settings in preparation for setting new ones.
+
+[12/26/2019 07:05.48.735] WudfCoInstaller: Configuring UMDF Service WpdFs.
+
+[12/26/2019 07:05.48.770] WudfCoInstaller: ImpersonationLevel set to 2
+
+[12/26/2019 07:05.48.789] WudfCoInstaller: Final status: error(0) The operation completed successfully.
+
+
+[12/26/2019 07:05.49.079] WudfCoInstaller: Created marker file C:\Windows\system32\drivers\Msft_User_WpdFs_01_11_00.Wdf.
+
+AudMig: Device Ids match - {2}.\\?\hdaudio#func_01&ven_10ec&dev_0236&subsys_102808cc&rev_1000#4&8efe001&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\eheadphonetopo/00010001 {2}.\\?\hdaudio#func_01&ven_10ec&dev_0236&subsys_102808cc&rev_1000#4&8efe001&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\eheadphonetopo/00010001
+AudMig: Migrated {a45c254e-df1c-4efd-8020-67d146a850e0},2 property at 1
+AudMig: Migrated {9637b4b9-11ee-4c35-b43c-7b2452c993cc},1 property at 7
+AudMig: Migrated {259abffc-50a7-47ce-af08-68c9a7d73366},12 property at 12
+AudMig: Migrating role and device state from SOFTWARE\Microsoft\Windows\CurrentVersion\MMDevices\Audio\Render\{F59196C8-0B7D-44DC-BEEE-B520965C84BE} to SOFTWARE\Microsoft\Windows\CurrentVersion\MMDevices\Audio\Render\{DD666348-CF77-4CCA-A861-BE3F3417D885}
+AudMig: Device Ids match - {2}.\\?\hdaudio#func_01&ven_10ec&dev_0236&subsys_102808cc&rev_1000#4&8efe001&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\espeakertopo/00010001 {2}.\\?\hdaudio#func_01&ven_10ec&dev_0236&subsys_102808cc&rev_1000#4&8efe001&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\espeakertopo/00010001
+AudMig: Migrated {a45c254e-df1c-4efd-8020-67d146a850e0},2 property at 1
+AudMig: Migrated {9637b4b9-11ee-4c35-b43c-7b2452c993cc},1 property at 7
+AudMig: Migrated {259abffc-50a7-47ce-af08-68c9a7d73366},12 property at 12
+AudMig: Migrated {b3f8fa53-0004-438e-9003-51a46e139bfc},0 property at 31
+AudMig: Migrated {24dbb0fc-9311-4b3d-9cf0-18ff155639d4},1 property at 32
+AudMig: Migrated {f19f064d-082c-4e27-bc73-6882a1bb8e4c},0 property at 33
+AudMig: Migrated {6737016f-5360-48ee-af05-e616c8ff27a7},2 property at 40
+AudMig: Migrated {fd8a7b27-0b18-4025-ab1c-bdd6b32e1604},2 property at 41
+AudMig: Migrated {908dba32-edff-4c28-8e45-c918561f6748},2 property at 42
+AudMig: Migrated {913bc9a7-624b-4a30-96ac-5064a9fc6589},2 property at 43
+AudMig: Migrated {a45429a4-aa63-4480-b7f8-3f2552daee93},2 property at 44
+AudMig: Migrated {a45429a4-aa63-4480-b7f8-3f2552daee93},3 property at 45
+AudMig: Migrated {a45429a4-aa63-4480-b7f8-3f2552daee93},4 property at 46
+AudMig: Migrated {a45429a4-aa63-4480-b7f8-3f2552daee93},5 property at 47
+AudMig: Migrated {a45429a4-aa63-4480-b7f8-3f2552daee93},6 property at 48
+AudMig: Migrating role and device state from SOFTWARE\Microsoft\Windows\CurrentVersion\MMDevices\Audio\Render\{FAA2E6C0-8346-4AC5-BAAB-DC862D6A26C0} to SOFTWARE\Microsoft\Windows\CurrentVersion\MMDevices\Audio\Render\{2BE0D287-9DB8-4BFA-B165-647F62A891F4}
+AudMig: Device Ids match - {2}.\\?\hdaudio#func_01&ven_10ec&dev_0236&subsys_102808cc&rev_1000#4&8efe001&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\eheadphonetopo/00010000 {2}.\\?\hdaudio#func_01&ven_10ec&dev_0236&subsys_102808cc&rev_1000#4&8efe001&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\eheadphonetopo/00010000
+AudMig: Migrated {a45c254e-df1c-4efd-8020-67d146a850e0},2 property at 1
+AudMig: Migrated {9637b4b9-11ee-4c35-b43c-7b2452c993cc},1 property at 7
+AudMig: Migrated {259abffc-50a7-47ce-af08-68c9a7d73366},12 property at 12
+AudMig: Migrating role and device state from SOFTWARE\Microsoft\Windows\CurrentVersion\MMDevices\Audio\Capture\{1797F4B7-FC51-47CC-904F-D42C9B469E6B} to SOFTWARE\Microsoft\Windows\CurrentVersion\MMDevices\Audio\Capture\{AE13E67B-96A7-4D23-BE33-D7EC5F3C0D0C}
+AudMig: Device Ids match - {2}.\\?\hdaudio#func_01&ven_10ec&dev_0236&subsys_102808cc&rev_1000#4&8efe001&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\emicintopo/00010001 {2}.\\?\hdaudio#func_01&ven_10ec&dev_0236&subsys_102808cc&rev_1000#4&8efe001&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\emicintopo/00010001
+AudMig: Migrated {a45c254e-df1c-4efd-8020-67d146a850e0},2 property at 1
+AudMig: Migrated {9637b4b9-11ee-4c35-b43c-7b2452c993cc},1 property at 7
+AudMig: Migrated {259abffc-50a7-47ce-af08-68c9a7d73366},12 property at 12
+AudMig: Migrated {b3f8fa53-0004-438e-9003-51a46e139bfc},0 property at 31
+AudMig: Migrated {f19f064d-082c-4e27-bc73-6882a1bb8e4c},0 property at 34
+AudMig: Migrating role and device state from SOFTWARE\Microsoft\Windows\CurrentVersion\MMDevices\Audio\Capture\{8CA64D12-5A7A-40B3-A961-3017EEEFFD56} to SOFTWARE\Microsoft\Windows\CurrentVersion\MMDevices\Audio\Capture\{8A1E73CF-3FD1-4F20-9E16-C13B89D66C53}
+[01/03/2020 17:17.41.674] WudfCoInstaller: ReadWdfSection: Checking WdfSection [Basic_Install.Wdf]
+
+[01/03/2020 17:17.41.790] WudfCoInstaller: UMDF Service WpdFs is already installed - removing existing settings in preparation for setting new ones.
+
+[01/03/2020 17:17.41.851] WudfCoInstaller: Configuring UMDF Service WpdFs.
+
+[01/03/2020 17:17.41.940] WudfCoInstaller: ImpersonationLevel set to 2
+
+[01/03/2020 17:17.41.973] WudfCoInstaller: Final status: error(0) The operation completed successfully.
+
+
+[01/03/2020 17:17.43.094] WudfCoInstaller: Created marker file C:\Windows\system32\drivers\Msft_User_WpdFs_01_11_00.Wdf.
+
+[01/13/2020 22:08.32.424] WudfCoInstaller: ReadWdfSection: Checking WdfSection [MTP.NT.Wdf]
+
+[01/13/2020 22:08.32.582] WudfCoInstaller: Configuring UMDF Service WpdMtpDriver.
+
+[01/13/2020 22:08.32.682] WudfCoInstaller: ImpersonationLevel set to 2
+
+[01/13/2020 22:08.32.745] WudfCoInstaller: KernelModeClientPolicy set to 1
+
+[01/13/2020 22:08.32.791] WudfCoInstaller: Final status: error(0) The operation completed successfully.
+
+
+[01/13/2020 22:08.38.503] WudfCoInstaller: Created marker file C:\Windows\system32\drivers\Msft_User_WpdMtpDr_01_11_00.Wdf.
+
+[01/13/2020 22:28.21.663] WudfCoInstaller: ReadWdfSection: Checking WdfSection [MTP.NT.Wdf]
+
+[01/13/2020 22:28.21.799] WudfCoInstaller: UMDF Service WpdMtpDriver is already installed - removing existing settings in preparation for setting new ones.
+
+[01/13/2020 22:28.21.834] WudfCoInstaller: Configuring UMDF Service WpdMtpDriver.
+
+[01/13/2020 22:28.21.878] WudfCoInstaller: ImpersonationLevel set to 2
+
+[01/13/2020 22:28.21.906] WudfCoInstaller: KernelModeClientPolicy set to 1
+
+[01/13/2020 22:28.21.929] WudfCoInstaller: Final status: error(0) The operation completed successfully.
+
+
+[01/13/2020 22:28.25.224] WudfCoInstaller: Created marker file C:\Windows\system32\drivers\Msft_User_WpdMtpDr_01_11_00.Wdf.
+

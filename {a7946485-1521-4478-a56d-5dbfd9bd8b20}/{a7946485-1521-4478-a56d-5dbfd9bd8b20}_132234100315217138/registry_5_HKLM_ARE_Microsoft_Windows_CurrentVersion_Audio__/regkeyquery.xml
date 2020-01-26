@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<regkeyquery>
+  <key>
+    <name>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Audio</name>
+    <value>
+      <name>DisableSpatialOnComboEndpoints</name>
+      <type>REG_DWORD</type>
+      <data>0x0</data>
+    </value>
+    <value>
+      <name>DisableToastPolicy</name>
+      <type>REG_DWORD</type>
+      <data>0x1</data>
+    </value>
+    <value>
+      <name>EnableCaptureMonitor</name>
+      <type>REG_DWORD</type>
+      <data>0x1</data>
+    </value>
+    <value>
+      <name>EnableLogonHIDControls</name>
+      <type>REG_DWORD</type>
+      <data>0x1</data>
+    </value>
+    <value>
+      <name>VolumeAccelThreshold</name>
+      <type>REG_DWORD</type>
+      <data>0x6</data>
+    </value>
+    <value>
+      <name>VolumeDownTransitionTime</name>
+      <type>REG_DWORD</type>
+      <data>0x7D0</data>
+    </value>
+    <value>
+      <name>VolumeRepeatWindow</name>
+      <type>REG_DWORD</type>
+      <data>0x12C</data>
+    </value>
+    <value>
+      <name>VolumeUpTransitionTime</name>
+      <type>REG_DWORD</type>
+      <data>0x0</data>
+    </value>
+  </key>
+</regkeyquery>

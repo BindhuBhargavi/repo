@@ -1,0 +1,48 @@
+12/26 06:44:09	Info	
+
+12/26 06:44:09	Info	Volume name is \\?\Volume{4e948b85-bda2-40de-9cb4-45d36e59c47a}\
+12/26 06:44:09	Info	Mount Point are :
+12/26 06:44:09	Info	
+12/26 06:44:09	Info	Volume is Fixed Drive
+12/26 06:44:09	Info	Volume is ntfs
+12/26 06:44:09	Info	Volume is not system
+12/26 06:44:09	Info	Volume \\?\Volume{4e948b85-bda2-40de-9cb4-45d36e59c47a}\ has other OS 0 
+12/26 06:44:09	Info	SDDL for Volume is D:(A;;FA;;;BA)(A;OICIIO;GA;;;BA)(A;;FA;;;SY)(A;OICIIO;GA;;;SY)(A;;0x1301bf;;;AU)(A;OICIIO;SDGXGWGR;;;AU)(A;;0x1200a9;;;BU)(A;OICIIO;GXGR;;;BU)
+12/26 06:44:09	Info	Volume \\?\Volume{4e948b85-bda2-40de-9cb4-45d36e59c47a}\ has Default XP DACL 0
+12/26 06:44:09	Info	
+
+12/26 06:44:09	Info	Volume name is \\?\Volume{f352bb50-3a45-4fab-bffa-1028c2f82589}\
+12/26 06:44:09	Info	Mount Point are :
+12/26 06:44:09	Info	C:\	
+12/26 06:44:09	Info	Volume is Fixed Drive
+12/26 06:44:09	Info	Volume is ntfs
+12/26 06:44:09	Info	Volume is not system
+12/26 06:44:09	Info	Volume \\?\Volume{f352bb50-3a45-4fab-bffa-1028c2f82589}\ has other OS 1 
+12/26 06:44:09	Info	
+
+12/26 06:44:09	Info	Volume name is \\?\Volume{cd47f7ba-10a7-4fa2-8ae5-a2dc86b82ecc}\
+12/26 06:44:09	Info	Mount Point are :
+12/26 06:44:09	Info	
+12/26 06:44:09	Info	Volume is Fixed Drive
+12/26 06:44:09	Info	Ignoring 0x3ed error code
+12/26 06:44:09	Info	
+
+12/26 06:44:09	Info	Volume name is \\?\Volume{31237513-1699-4c71-80f2-8f47a2f038a5}\
+12/26 06:44:09	Info	Mount Point are :
+12/26 06:44:09	Info	
+12/26 06:44:09	Info	Volume is Fixed Drive
+12/26 06:44:09	Info	Ignoring 0x3ed error code
+12/26 06:44:09	Info	
+
+12/26 06:44:09	Info	Volume name is \\?\Volume{edab11e7-277c-11ea-b9c1-806e6f6e6963}\
+12/26 06:44:09	Info	Mount Point are :
+12/26 06:44:09	Info	D:\	
+12/26 06:44:09	Info	Volume is Removable Drive
+12/26 06:44:09	Info	Volume is not ntfs
+12/26 06:44:09	Info	
+
+12/26 06:44:09	Info	Volume name is \\?\Volume{7b435879-ea64-4b15-8e46-6b0301bd9089}\
+12/26 06:44:09	Info	Mount Point are :
+12/26 06:44:09	Info	
+12/26 06:44:09	Info	Volume is Fixed Drive
+12/26 06:44:09	Info	Volume is not ntfs
